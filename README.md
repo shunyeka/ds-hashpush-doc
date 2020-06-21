@@ -27,4 +27,8 @@ AES-256
 
 In order to generate AES256 hash, you can use online hash generators like https://emn178.github.io/online-tools/sha256_checksum.html
 
+## Download DS HASH PUSH
+
+  Currently this tool is under development for feature enhancement. Kindly provide your email address to get access to latest version of DS HASH PUSH binaries.
+  
 
